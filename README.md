@@ -6,17 +6,17 @@
 
 Ihr findet in diesem Repository 4 verschiedene Variationen des Treppenlauflichts. 
 
-1. Der Standard wäre die shys_treppenlauflicht.ino  
+1. Der Standard wäre die **shys_treppenlauflicht.ino**  
    Diese gilt für 2 Register, übermittelt aber Bewegungsmelder-Signale auf meiner alten Haussteuerung.  
    Wird also für die meisten nicht benötigt.  
   
-2. shys_treppenlauflicht_ohne_lan.ino  
+2. **shys_treppenlauflicht_ohne_lan.ino**  
    Diese Variante ist ohne LAN, für 2 Schieberegister, also 9-16 Stufen.  
   
-3. shys_treppenlauflicht_ohne_lan_1-Register.ino  
+3. **shys_treppenlauflicht_ohne_lan_1-Register.ino**  
    Diese Variante ist ohne LAN, für 1 Schieberegister, also 1-8 Stufen.  
   
-4. shys_treppenlauflicht_ohne_lan_3-Register.ino  
+4. **shys_treppenlauflicht_ohne_lan_3-Register.ino**  
    Diese Variante ist ohne LAN, für 3 Schieberegister, also 17-24 Stufen.  
   
   
